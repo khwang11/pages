@@ -10,4 +10,20 @@ h2 {	background-color: #0B6623;
 	color: #black;
 	text-shadow: 1px #CCCCCC;
 	font-family: "Lucida Console", "Courier New", monospace}
-
+	
+li{
+	font-style:italic;
+	color: #666633;
+}
+ul li{
+	font-style:italic;
+	color: #666633;
+}
+table{
+	font-style:italic;
+	color: #666633;
+}
+p{
+	font-style:italic;
+	color: #666633;
+}
